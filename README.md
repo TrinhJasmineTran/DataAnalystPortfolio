@@ -1,7 +1,7 @@
-# Trinh (Jasmine) Tran - Data (Business) Analyst Portfolio
+# Trinh (Jasmine) Tran - Business Data Analyst Portfolio
 ## About
 Introduction
-My CV/Resume in [pdf] (link)
+My CV/Resume in pdf
 ## Table of Contents
 - [About] (about above)
 - [Portfolio projects]
