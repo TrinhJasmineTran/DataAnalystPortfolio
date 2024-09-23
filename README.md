@@ -48,15 +48,32 @@ For more information, please check out my CV here.
 
 **Code:** [HTML RPubs](http://rpubs.com/trinhjasminetran27/1223031)
 
+**Data Source:** [TidyTuesday](https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-07-07)
+
 **Description:** The project aims to predict which characteristics determine the quality of coffee beans based on 4 machine learning models built on a public dataset of 1339 beans from the Coffee Quality Institute's review in January 2018. Some characteristics are aroma, acidity, aftertaste, continent of origin, species, uniformity. Comparison between models was made to identify similarities and differences of each, then uncover the most important indicators of coffee quality.
 
-**Skills:** data cleaning,EDA, data visualization, machine learning modelling (K-Nearest Neighbors, Random Forest, Ridge Regression, LASSO Regression), model interpretation
+**Skills:** data cleaning, EDA, data visualization, machine learning modelling (K-Nearest Neighbors, Random Forest, Ridge Regression, LASSO Regression), model interpretation
 
 **Technology:** R (tidyverse, ggplot2, tidymodels, dplyr)
 
 **Results:** 
 
-### Machine Learning
+![Coffee Results](https://github.com/user-attachments/assets/e0da691e-4599-4f04-9f3e-644971e59602)
+
+
+### Handwritten Digit Recognition Using Machine Learning Algorithms
+
+
+**Code:** [Report in PDF](https://github.com/user-attachments/files/17105421/Challenge_1_Official_341.pdf)
+
+**Description:**
+
+**Skills:**
+
+**Technology:**
+
+**Results:**
+
 ### Coronary
 ### 
 ###
