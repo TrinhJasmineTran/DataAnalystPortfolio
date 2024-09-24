@@ -64,7 +64,7 @@ For more information, please check out my CV here.
 ### Handwritten Digit Recognition Using Machine Learning Algorithms
 
 
-**Code:** [Report in PDF](
+**Code:** [Report in PDF](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/da1d5bb25f32eceeef94f8379381413821bcbe27/Challenge_1_Official_341.pdf)
 
 **Description:**
 
