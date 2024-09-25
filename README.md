@@ -10,6 +10,7 @@ During my undergraduate time, I have developed a strong analytical and technical
 This is a repository where I showcase my skills, projects, and keep track of my learning progress in learning Business Analysis. I'm always open to new opportunities and feedback/discussion so please feel free to reach me at tranlequetrinh2724@gmail.com.
 
 For more information, please check out my CV here.
+
 ## Table of Contents
 - [About](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/edit/main/README.md#about)
 - [Portfolio Projects](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/edit/main/README.md#portfolio-projects)
@@ -60,17 +61,23 @@ For more information, please check out my CV here.
 
 ![Coffee Results](https://github.com/user-attachments/assets/e0da691e-4599-4f04-9f3e-644971e59602)
 
-
 ### Handwritten Digit Recognition Using Machine Learning Algorithms
-
 
 **Code:** [Report in PDF](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/da1d5bb25f32eceeef94f8379381413821bcbe27/Challenge_1_Official_341.pdf)
 
-**Description:**
+**Description:** The project focuses on creating an end-to-end classifier of handwritten 7s and 3s by constructing two potential features and tested them on the digits of the Modified National Institute of Standards and Technology (MNIST) database. 
 
-**Skills:**
+Left Center Border: go through columns 14, 15, and 16 of the corresponding matrix, store the ROW number of the first non-zero cell in each column, then take the average of the three row numbers. Note that the matrix must be rotated 90 degree counterclockwise to have the corresponding image.
 
-**Technology:**
+![Screenshot 2024-04-26 at 15_49_08](https://github.com/user-attachments/assets/21de3460-3931-4f5b-bf6c-b7f56d87ead6)
+
+Total Lower Right Quadrant Darkness: go through each row and column of this quadrant and sum the pixel value for each cell. Note the the matrix must be rotated 90 degree counterclockwise to have the corresponding image. 
+
+![Screenshot 2024-04-26 at 15_41_54](https://github.com/user-attachments/assets/d2d50c4f-4ec0-4834-94cd-8143a274afdf)
+
+**Skills:** machine learning algorithms
+
+**Technology:** R 
 
 **Results:**
 
