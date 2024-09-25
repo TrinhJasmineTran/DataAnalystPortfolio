@@ -16,17 +16,17 @@ For more information, please check out my CV here.
 - [Portfolio Projects](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/edit/main/README.md#portfolio-projects)
   - R
     - Coffee Quality Prediction
-    - Machine Learning
+    - Handwritten Digit Recognition Using Machine Learning Algorithms
     - Coronary Heart Disease
     - Sephora Skincare Analysis
   - SQL
     - Career Track Analysis
   - Tableau
-    - Dougscore
-    - Chicago
-    - Tomato
-    - AirBnb
-    - Minimum Wage
+    - [Car Dougscore Analysis](https://public.tableau.com/app/profile/jasmine.tran8566/viz/RevisedJasmineMM1Cars/Dashboard1)
+    - [Crime In Chicago 2012-2023](https://public.tableau.com/app/profile/jasmine.tran8566/viz/RevisedJasmineMM5ChicagoCrime/Dashboard1)
+    - [Tomato & Potato Production](https://public.tableau.com/app/profile/jasmine.tran8566/viz/RevisedJasmineMM3TomatoPotato/Dashboard1)
+    - [AirBnb Landscape In Los Angeles](https://public.tableau.com/app/profile/jasmine.tran8566/viz/JasminesLA/Dashboard1)
+    - [Minimum Wage In The US](https://public.tableau.com/app/profile/jasmine.tran8566/viz/RevisedJasmineMM4MinimumWage/Dashboard1)
 
 - [Certificates]
 
@@ -75,9 +75,9 @@ Total Lower Right Quadrant Darkness: go through each row and column of this quad
 
 ![Screenshot 2024-04-26 at 15_41_54](https://github.com/user-attachments/assets/d2d50c4f-4ec0-4834-94cd-8143a274afdf)
 
-**Skills:** machine learning algorithms
+**Skills:** machine learning algorithms and modelling, data visualization
 
-**Technology:** R 
+**Technology:** R (functions, ggplot2, tidymodels)
 
 **Results:**
 
