@@ -111,7 +111,7 @@ Other fields of application can be retail and logistics (invoices, forms) and ed
 
 **Code:** [`Coronary Heart Disease.ipynb`](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/c350552e8d08eb10d0589b42c7ae61d236284731/Coronary%20Heart%20Disease.ipynb)
 
-**Report:**
+**Report:** [PDF](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/c4ba327397f9c15c0d069477ec1dbf98ae10b3b5/Final_Project_Report_272.pdf)
 
 **Description and Summary:** To investigate what factor(s) determine the development of coronary heart disease on residents of the town of Framingham, Massachusetts, our team of 2 conducted explanatory data analysis and built 4 statistical models to find the most influential variable(s) of patients. 
 Some of potential risk factors are age, gender, educational level, smoker/non-smoker, if a patient takes blood pressure medications, prevalance of stroke, obesity, heart rate, etc.
