@@ -18,7 +18,7 @@ For more information, please check out my CV here.
     - [Career Track Analysis](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/main/README.md#career-track-analysis)
   - R
     - [Coffee Quality Prediction](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/main/README.md#coffee-quality-prediction)
-    - [Handwritten Digit Recognition Using Machine Learning Algorithms]
+    - [Handwritten Digit Recognition Using Machine Learning Algorithms](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/main/README.md#handwritten-digit-recognition-using-machine-learning-algorithms)
     - [An Analysis of Key Risk Factors of Coronary Heart Disease]
     - [Sephora Skincare Analysis]
   - Tableau
