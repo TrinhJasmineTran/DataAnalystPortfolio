@@ -15,12 +15,12 @@ For more information, please check out my CV here.
 - [About](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/edit/main/README.md#about)
 - [Portfolio Projects](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/edit/main/README.md#portfolio-projects)
   - SQL
-    - Career Track Analysis
+    - [Career Track Analysis]
   - R
-    - Coffee Quality Prediction
-    - Handwritten Digit Recognition Using Machine Learning Algorithms
-    - An Analysis of Key Risk Factors of Coronary Heart Disease
-    - Sephora Skincare Analysis
+    - [Coffee Quality Prediction]
+    - [Handwritten Digit Recognition Using Machine Learning Algorithms]
+    - [An Analysis of Key Risk Factors of Coronary Heart Disease]
+    - [Sephora Skincare Analysis]
   - Tableau
     - [Car Dougscore Analysis](https://public.tableau.com/app/profile/jasmine.tran8566/viz/RevisedJasmineMM1Cars/Dashboard1)
     - [Crime In Chicago 2012-2023](https://public.tableau.com/app/profile/jasmine.tran8566/viz/RevisedJasmineMM5ChicagoCrime/Dashboard1)
