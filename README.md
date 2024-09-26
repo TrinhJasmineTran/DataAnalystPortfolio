@@ -17,7 +17,7 @@ For more information, please check out my CV here.
   - SQL
     - [Career Track Analysis](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/main/README.md#career-track-analysis)
   - R
-    - [Coffee Quality Prediction]
+    - [Coffee Quality Prediction](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/main/README.md#coffee-quality-prediction)
     - [Handwritten Digit Recognition Using Machine Learning Algorithms]
     - [An Analysis of Key Risk Factors of Coronary Heart Disease]
     - [Sephora Skincare Analysis]
