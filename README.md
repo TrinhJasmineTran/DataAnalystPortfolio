@@ -51,7 +51,7 @@ For more information, please check out my CV here.
 
 **Data Source:** [TidyTuesday](https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-07-07)
 
-**Description and Overview:** The project aims to predict which characteristics determine the quality of coffee beans based on 4 machine learning models built on a public dataset of 1339 beans from the Coffee Quality Institute's review in January 2018. Some characteristics are aroma, acidity, aftertaste, continent of origin, species, uniformity. Comparison between models was made to identify similarities and differences of each, then uncover the most important indicators of coffee quality.
+**Description and Summary:** The project aims to predict which characteristics determine the quality of coffee beans based on 4 machine learning models built on a public dataset of 1339 beans from the Coffee Quality Institute's review in January 2018. Some characteristics are aroma, acidity, aftertaste, continent of origin, species, uniformity. Comparison between models was made to identify similarities and differences of each, then uncover the most important indicators of coffee quality.
 
 - ***Data Manipulation:*** I tidied, summarized, and modified raw data to eliminate irrelevant variables, null values, and multicollinearity. Then, divided the data into training (70%) and testing (30%) datasets.
 
