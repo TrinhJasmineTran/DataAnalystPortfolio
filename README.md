@@ -86,6 +86,7 @@ For more information, please check out my CV here.
 ###
 
 ## Certificates
-- [The Complete SQL Bootcamp: From Zero To Hero (Jun 2024)](https://github.com/user-attachments/assets/3f777f1b-7b33-411e-a39f-71dd1fd1c669) | Udemy
-- [Learning SQL Programming (Jan 2024)](https://github.com/user-attachments/files/17154603/CertificateOfCompletion_Learning.SQL.Programming.pdf) | LinkedIn Learning
+- [The Complete SQL Bootcamp: From Zero To Hero (Jun 2024)](https://github.com/user-attachments/assets/c3a3b334-0175-46fd-b4a6-5ce8620b36a8)  | Udemy
+- [Learning SQL Programming (Jan 2024)](https://github.com/user-attachments/files/17155050/CertificateOfCompletion_Learning.SQL.Programming.pdf)  | LinkedIn Learning
+
 
