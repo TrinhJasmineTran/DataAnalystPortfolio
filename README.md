@@ -109,7 +109,7 @@ Other fields of application can be retail and logistics (invoices, forms) and ed
 
 ### An Analysis of Key Risk Factors of Coronary Heart Disease
 
-**Code:** [`Coronary Heart Disease`](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/c350552e8d08eb10d0589b42c7ae61d236284731/Coronary%20Heart%20Disease.ipynb)
+**Code:** [`Coronary Heart Disease.ipynb`](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/c350552e8d08eb10d0589b42c7ae61d236284731/Coronary%20Heart%20Disease.ipynb)
 
 **Goal:**
 
