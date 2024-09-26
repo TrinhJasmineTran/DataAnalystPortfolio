@@ -14,9 +14,9 @@ For more information, please check out my CV here.
 ## Table of Contents
 - [About](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/edit/main/README.md#about)
 - [Portfolio Projects](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/edit/main/README.md#portfolio-projects)
-   - SQL
+  - SQL
     - Career Track Analysis
-   - R
+  - R
     - Coffee Quality Prediction
     - Handwritten Digit Recognition Using Machine Learning Algorithms
     - An Analysis of Key Risk Factors of Coronary Heart Disease
