@@ -86,4 +86,5 @@ For more information, please check out my CV here.
 ###
 
 ## Certificates
-- The Complete SQL Bootcamp: From Zero To Hero (Jun 2024) | Udemy 
+- [The Complete SQL Bootcamp: From Zero To Hero (Jun 2024) | Udemy]
+- 
