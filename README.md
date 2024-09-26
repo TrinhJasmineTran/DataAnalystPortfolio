@@ -14,8 +14,6 @@ For more information, please check out my CV here.
 ## Table of Contents
 - [About](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/edit/main/README.md#about)
 - [Portfolio Projects](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/edit/main/README.md#portfolio-projects)
-  - SQL
-    - [Career Track Analysis](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/main/README.md#career-track-analysis)
   - R
     - [Coffee Quality Prediction](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/main/README.md#coffee-quality-prediction)
     - [Handwritten Digit Recognition Using Machine Learning Algorithms](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/main/README.md#handwritten-digit-recognition-using-machine-learning-algorithms)
@@ -31,19 +29,6 @@ For more information, please check out my CV here.
 - [Certificates](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/main/README.md#certificates)
 
 ## Portfolio projects
-### Career Track Analysis
-
-**Code:**
-
-**Goal:**
-
-**Description:**
-
-**Skills:**
-
-**Technology:**
-
-**Results:**
 
 ### Coffee Quality Prediction
 
