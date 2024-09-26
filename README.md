@@ -19,7 +19,7 @@ For more information, please check out my CV here.
    - R
     - Coffee Quality Prediction
     - Handwritten Digit Recognition Using Machine Learning Algorithms
-    - Coronary Heart Disease
+    - An Analysis of Key Risk Factors of Coronary Heart Disease
     - Sephora Skincare Analysis
   - Tableau
     - [Car Dougscore Analysis](https://public.tableau.com/app/profile/jasmine.tran8566/viz/RevisedJasmineMM1Cars/Dashboard1)
@@ -102,11 +102,39 @@ Informs farmers of how their product is valued and what characteristic(s) can be
 
 **Technology:** R (functions, ggplot2, tidymodels)
 
-**Results:** 
+**Application:** 
 
-### Coronary
-### 
-###
+Assists with data entry, bank check processing, and mail sorting that contain handwritten digits. 
+Other fields of application can be retail and logistics (invoices, forms) and education (lecture notes, materials). 
+
+### An Analysis of Key Risk Factors of Coronary Heart Disease
+
+**Code:**
+
+
+**Goal:**
+
+**Description:**
+
+**Skills:**
+
+**Technology:**
+
+**Results:**
+
+### Sephora Skincare Analysis
+
+**Code:**
+
+**Goal:**
+
+**Description:**
+
+**Skills:**
+
+**Technology:**
+
+**Results:**
 
 ## Certificates
 - [The Complete SQL Bootcamp: From Zero To Hero (Jun 2024)](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/6bb3cb7720d853d93f39c9d121543978b3512016/UC-4d30e5ac-ba35-4d71-9f43-a1bde5e197ca.jpg)  | Udemy
