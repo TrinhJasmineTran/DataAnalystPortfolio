@@ -65,19 +65,22 @@ For more information, please check out my CV here.
 
 - ***LASSO Regression:*** this model explains the coffee grade even better, at 95.6% with 0.0183 optimal penalty.
 
-**Skills:** data cleaning, EDA, data visualization, machine learning modelling (K-Nearest Neighbors, Random Forest, Ridge Regression, LASSO Regression), model interpretation
+![Coffee Results](https://github.com/user-attachments/assets/e0da691e-4599-4f04-9f3e-644971e59602)
+
+**Skills:** data cleaning, EDA, data visualization, machine learning modelling (K-Nearest Neighbors, Random Forest, Ridge Regression with Cross-Validation, LASSO Regression with Cross-Validation), model interpretation
 
 **Technology:** R (tidyverse, ggplot2, tidymodels, dplyr)
 
-**Results:** 
+**Application:** 
 
-![Coffee Results](https://github.com/user-attachments/assets/e0da691e-4599-4f04-9f3e-644971e59602)
+Helps farmers and consumers to align expectations with each other and from that, establish a fair pricing system to ensure fair trade in the market.
+Informs farmers of how their product is valued and what characteristic(s) can be improved, making positive changes to their growing process and livelihood.
 
 ### Handwritten Digit Recognition Using Machine Learning Algorithms
 
 **Code:** [Report in PDF](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/da1d5bb25f32eceeef94f8379381413821bcbe27/Challenge_1_Official_341.pdf)
 
-**Description:** The project focuses on creating an end-to-end classifier of handwritten 7s and 3s by constructing two potential features and tested them on the digits of the Modified National Institute of Standards and Technology (MNIST) database. 
+**Description and Summary:** The project focuses on creating an end-to-end classifier of handwritten 7s and 3s by constructing two potential features and tested them on the digits of the Modified National Institute of Standards and Technology (MNIST) database. 
 
 - ***Left Center Border:*** go through columns 14, 15, and 16 of the corresponding matrix, store the ROW number of the first non-zero cell in each column, then take the average of the three row numbers. Note that the matrix must be rotated 90 degree counterclockwise to have the corresponding image.
 
@@ -86,6 +89,14 @@ For more information, please check out my CV here.
 - ***Total Lower Right Quadrant Darkness:*** go through each row and column of this quadrant and sum the pixel value for each cell. Note the the matrix must be rotated 90 degree counterclockwise to have the corresponding image. 
 
 ![Screenshot 2024-04-26 at 15_41_54](https://github.com/user-attachments/assets/d2d50c4f-4ec0-4834-94cd-8143a274afdf)
+
+- ***Dataset Creation:*** We pulled all the matrices of 3s and 7s from the MNIST dataset, calculated each feature for each matrix, and divided them into training and testing dataset at random (80/20).
+
+- ***K-Nearest Neighbor Model:*** We built a knn model at an optimal k = 77 to get the misclassification rate of 40.5%.
+
+- ***Logistic Regression:*** We obtained the misclassification rate of 39%
+
+- ***Digit Visualization:*** I incorporated the rate of 39% into the classification problem and investigated the missclassified digits using visualizations.
 
 **Skills:** machine learning algorithms and modelling, data visualization
 
