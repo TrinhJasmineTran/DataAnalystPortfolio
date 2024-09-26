@@ -128,17 +128,23 @@ Some of potential risk factors are age, gender, educational level, smoker/non-sm
 
 ### Sephora Skincare Analysis
 
-**Code:**
+**Code:** [`Sephora Skincare Analysis.ipynb`]
+(https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/9a9c3ca33e210abff68e301dbfd90fae4fc045d1/Sephora%20Skincare%20Analysis.ipynb)
 
-**Goal:**
+**Description and Summary:** With a love for beauty products, my team of 2 decided to make an interactive webpage using RShiny to study Sephora’s portfolio of brands and products. We focused on categorizing brands into cruelty-free and non-cruelty-free and from that, allowed users to choose products according to their willingness to purchase, choices of brands, skin types, and skin conditions. Our webpage has 6 tabs with drop-down menus for better user interaction.
 
-**Description:**
+- ***Data Preparation:*** We found two datasets (product data and cruelty-free data) related to the topic and joined them to have a master dataset. We tidied and wrangled the 3 datasets (2 original and a master one) using join and pivot functions in RStudio.
 
-**Skills:**
+- ***Visualization Sketching:*** Pre-coding, we sketched some visualization ideas on paper to make sure the axes, variables, and graph structures work well. This step also stimulated the creativity for better ideas. 
 
-**Technology:**
+- ***Coding & Data Visualization:*** I first learned how to code a webpage by going though online tutorials and resources from the Professor. It’s worth paying attention to coding the page structure, layout, images, and titles. Then, we dived into making the visualizations and interactive parts like drop-down menus and bars.
 
-**Results:**
+**Skills:** Data preprossing, analysis, and visualization
+
+**Technology:** R (tidyverse, ggplot2, dyplyr, RShiny)
+
+**Application:** Gains awareness for consumers of the beauty industry to study the brands and products more carefully, according to their demands and skin types.
+Helps avoid wasting of resources as beauty products can be a magic for someone while being a nightmare for someone else. 
 
 ## Certificates
 - [The Complete SQL Bootcamp: From Zero To Hero (Jun 2024)](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/6bb3cb7720d853d93f39c9d121543978b3512016/UC-4d30e5ac-ba35-4d71-9f43-a1bde5e197ca.jpg)  | Udemy
