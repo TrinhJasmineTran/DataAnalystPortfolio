@@ -86,7 +86,7 @@ For more information, please check out my CV here.
 ###
 
 ## Certificates
-- [The Complete SQL Bootcamp: From Zero To Hero (Jun 2024)](https://github.com/user-attachments/assets/c3a3b334-0175-46fd-b4a6-5ce8620b36a8)  | Udemy
+- [The Complete SQL Bootcamp: From Zero To Hero (Jun 2024)](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/6bb3cb7720d853d93f39c9d121543978b3512016/UC-4d30e5ac-ba35-4d71-9f43-a1bde5e197ca.jpg)  | Udemy
 - [Learning SQL Programming (Jan 2024)](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/27f48ebe202aadeb59987cd109a809c88c51a1fb/CertificateOfCompletion_Learning%20SQL%20Programming.pdf)  | LinkedIn Learning
 
 
