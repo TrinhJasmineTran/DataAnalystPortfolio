@@ -84,3 +84,6 @@ For more information, please check out my CV here.
 ### Coronary
 ### 
 ###
+
+## Certificates
+- The Complete SQL Bootcamp: From Zero To Hero (Jun 2024) | Udemy 
