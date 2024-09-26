@@ -19,7 +19,7 @@ For more information, please check out my CV here.
   - R
     - [Coffee Quality Prediction](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/main/README.md#coffee-quality-prediction)
     - [Handwritten Digit Recognition Using Machine Learning Algorithms](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/main/README.md#handwritten-digit-recognition-using-machine-learning-algorithms)
-    - [An Analysis of Key Risk Factors of Coronary Heart Disease]
+    - [An Analysis of Key Risk Factors of Coronary Heart Disease](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/main/README.md#an-analysis-of-key-risk-factors-of-coronary-heart-disease)
     - [Sephora Skincare Analysis]
   - Tableau
     - [Car Dougscore Analysis](https://public.tableau.com/app/profile/jasmine.tran8566/viz/RevisedJasmineMM1Cars/Dashboard1)
