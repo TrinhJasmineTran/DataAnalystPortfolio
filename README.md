@@ -111,15 +111,20 @@ Other fields of application can be retail and logistics (invoices, forms) and ed
 
 **Code:** [`Coronary Heart Disease.ipynb`](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/c350552e8d08eb10d0589b42c7ae61d236284731/Coronary%20Heart%20Disease.ipynb)
 
-**Goal:**
+**Report:**
 
-**Description:**
+**Description and Summary:** To investigate what factor(s) determine the development of coronary heart disease on residents of the town of Framingham, Massachusetts, our team of 2 conducted explanatory data analysis and built 4 statistical models to find the most influential variable(s) of patients. 
+Some of potential risk factors are age, gender, educational level, smoker/non-smoker, if a patient takes blood pressure medications, prevalance of stroke, obesity, heart rate, etc.
 
-**Skills:**
+- ***Explanatory Data Analysis:*** I plotted the relationship between the binary response variables with each of the explanatory variables to investigate correlation. A segmented bar chart and table of proportions were used for categorical variables, while continuous quantitative variables were observed using histograms.
+- ***Logistic Regression:*** To make comparisons between groups (binary variables), we employed simple and multiple logistic regression.
+- ***LASSO Variable Selection:*** we run the selection to eliminate weak indicators of heart disease in the data.
 
-**Technology:**
+**Skills:** data preprocessing, data analysis, statistical modelling (linear regression, logistic regression, LASSO Model Selection), statistical writting
 
-**Results:**
+**Technology:** R (tidyverse, dyplyr, ggplot2)
+
+**Application:** Uncovers the relationship between conary heart disease with several risk factors, helping patients and researchers in studying this disease.
 
 ### Sephora Skincare Analysis
 
