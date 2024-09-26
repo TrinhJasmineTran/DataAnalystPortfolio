@@ -71,10 +71,7 @@ For more information, please check out my CV here.
 
 **Technology:** R (tidyverse, ggplot2, tidymodels, dplyr)
 
-**Application:** 
-
-Helps farmers and consumers to align expectations with each other and from that, establish a fair pricing system to ensure fair trade in the market.
-Informs farmers of how their product is valued and what characteristic(s) can be improved, making positive changes to their growing process and livelihood.
+**Application:** Helps farmers and consumers to align expectations with each other and from that, establish a fair pricing system to ensure fair trade in the market. Informs farmers of how their product is valued and what characteristic(s) can be improved, making positive changes to their growing process and livelihood.
 
 ### Handwritten Digit Recognition Using Machine Learning Algorithms
 
@@ -102,10 +99,7 @@ Informs farmers of how their product is valued and what characteristic(s) can be
 
 **Technology:** R (functions, ggplot2, tidymodels)
 
-**Application:** 
-
-Assists with data entry, bank check processing, and mail sorting that contain handwritten digits. 
-Other fields of application can be retail and logistics (invoices, forms) and education (lecture notes, materials). 
+**Application:** Assists with data entry, bank check processing, and mail sorting that contain handwritten digits. Other fields of application can be retail and logistics (invoices, forms) and education (lecture notes, materials). 
 
 ### An Analysis of Key Risk Factors of Coronary Heart Disease
 
@@ -128,8 +122,7 @@ Some of potential risk factors are age, gender, educational level, smoker/non-sm
 
 ### Sephora Skincare Analysis
 
-**Code:** [`Sephora Skincare Analysis.ipynb`]
-(https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/9a9c3ca33e210abff68e301dbfd90fae4fc045d1/Sephora%20Skincare%20Analysis.ipynb)
+**Code:** [`Sephora Skincare Analysis.ipynb`](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/9a9c3ca33e210abff68e301dbfd90fae4fc045d1/Sephora%20Skincare%20Analysis.ipynb)
 
 **Description and Summary:** With a love for beauty products, my team of 2 decided to make an interactive webpage using RShiny to study Sephora’s portfolio of brands and products. We focused on categorizing brands into cruelty-free and non-cruelty-free and from that, allowed users to choose products according to their willingness to purchase, choices of brands, skin types, and skin conditions. Our webpage has 6 tabs with drop-down menus for better user interaction.
 
