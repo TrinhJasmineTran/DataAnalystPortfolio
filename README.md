@@ -109,8 +109,7 @@ Other fields of application can be retail and logistics (invoices, forms) and ed
 
 ### An Analysis of Key Risk Factors of Coronary Heart Disease
 
-**Code:**
-
+**Code:** Coronary Heart Disease.ipynb
 
 **Goal:**
 
