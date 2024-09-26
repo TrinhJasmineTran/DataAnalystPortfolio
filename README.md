@@ -28,7 +28,7 @@ For more information, please check out my CV here.
     - [AirBnb Landscape In Los Angeles](https://public.tableau.com/app/profile/jasmine.tran8566/viz/JasminesLA/Dashboard1)
     - [Minimum Wage In The US](https://public.tableau.com/app/profile/jasmine.tran8566/viz/RevisedJasmineMM4MinimumWage/Dashboard1)
 
-- [Certificates]
+- [Certificates](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/main/README.md#certificates)
 
 ## Portfolio projects
 ### Career Track Analysis
