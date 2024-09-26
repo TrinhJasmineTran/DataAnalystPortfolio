@@ -15,7 +15,7 @@ For more information, please check out my CV here.
 - [About](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/edit/main/README.md#about)
 - [Portfolio Projects](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/edit/main/README.md#portfolio-projects)
   - SQL
-    - [Career Track Analysis]
+    - [Career Track Analysis](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/blob/main/README.md#career-track-analysis)
   - R
     - [Coffee Quality Prediction]
     - [Handwritten Digit Recognition Using Machine Learning Algorithms]
