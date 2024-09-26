@@ -14,13 +14,13 @@ For more information, please check out my CV here.
 ## Table of Contents
 - [About](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/edit/main/README.md#about)
 - [Portfolio Projects](https://github.com/TrinhJasmineTran/DataAnalystPortfolio/edit/main/README.md#portfolio-projects)
-  - R
+   - SQL
+    - Career Track Analysis
+   - R
     - Coffee Quality Prediction
     - Handwritten Digit Recognition Using Machine Learning Algorithms
     - Coronary Heart Disease
     - Sephora Skincare Analysis
-  - SQL
-    - Career Track Analysis
   - Tableau
     - [Car Dougscore Analysis](https://public.tableau.com/app/profile/jasmine.tran8566/viz/RevisedJasmineMM1Cars/Dashboard1)
     - [Crime In Chicago 2012-2023](https://public.tableau.com/app/profile/jasmine.tran8566/viz/RevisedJasmineMM5ChicagoCrime/Dashboard1)
@@ -31,7 +31,7 @@ For more information, please check out my CV here.
 - [Certificates]
 
 ## Portfolio projects
-### Career Path Analysis
+### Career Track Analysis
 
 **Code:**
 
@@ -51,7 +51,14 @@ For more information, please check out my CV here.
 
 **Data Source:** [TidyTuesday](https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-07-07)
 
-**Description:** The project aims to predict which characteristics determine the quality of coffee beans based on 4 machine learning models built on a public dataset of 1339 beans from the Coffee Quality Institute's review in January 2018. Some characteristics are aroma, acidity, aftertaste, continent of origin, species, uniformity. Comparison between models was made to identify similarities and differences of each, then uncover the most important indicators of coffee quality.
+**Description and Overview:** The project aims to predict which characteristics determine the quality of coffee beans based on 4 machine learning models built on a public dataset of 1339 beans from the Coffee Quality Institute's review in January 2018. Some characteristics are aroma, acidity, aftertaste, continent of origin, species, uniformity. Comparison between models was made to identify similarities and differences of each, then uncover the most important indicators of coffee quality.
+
+***Data Manipulation:*** I tidied, summarized, and modified raw data to eliminate irrelevant variables, null values, and multicollinearity. Then, divided the data into training (70%) and testing (30%) datasets.
+***Explanatory Data Analysis:*** I created histograms and scatterplot to discover the distribution of coffee grade and the correlation between numeric variables.
+***K-Nearest Neighbors Regression:*** using the optimal number of neighbors (17) to predict the grade of a particular bean in the data, 87% of the variability of bean quality is explained by this model.
+***Random Forest:*** 93% of the variability of bean quality is explained by this model with 100 trees and 7 important variables.
+***Ridge Regression:*** with the optimal penalty of only 0.001, this model explains 95.4% of the variability of coffee quality.
+***LASSO Regression:*** this model explains the coffee grade even better, at 95.6% with 0.0183 optimal penalty.
 
 **Skills:** data cleaning, EDA, data visualization, machine learning modelling (K-Nearest Neighbors, Random Forest, Ridge Regression, LASSO Regression), model interpretation
 
@@ -79,7 +86,7 @@ For more information, please check out my CV here.
 
 **Technology:** R (functions, ggplot2, tidymodels)
 
-**Results:**
+**Results:** 
 
 ### Coronary
 ### 
